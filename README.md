@@ -4,8 +4,7 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with a cu
 
 ## Deployed Website
 
-![Website](https://alphaz-chat.herokuapp.com)
-![Run on Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)
+[![Run On Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](https://alphaz-chat.herokuapp.com)
 
 ## Usage
 ```
