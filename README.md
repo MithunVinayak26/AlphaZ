@@ -1,5 +1,5 @@
 ## AlphaZ
-Realtime chat app with websockets using Node.js, Express and Socket.io with a custom UI
+Realtime chat app using Node.js, Express and Socket.io with a custom UI
 
 
 ## Deployed Website
